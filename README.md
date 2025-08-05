@@ -80,6 +80,7 @@ Next is the overall info of the dataset.
 #info of the data
 movies_df.info()
 
+
 info() function gives us a comprehensive summary of the dataset, including the total number of entries, the data types of each column (object, float64), and the number of entries in each column.
 
 Next, we look at the summary statistics for the data.
