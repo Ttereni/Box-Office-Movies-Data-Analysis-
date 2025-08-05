@@ -64,7 +64,9 @@ This repository contains a study on Box Office trends and key attributes such as
 
                               Top 5 Original Languages in Movies Dataset
       
-          <img width="856" height="496" alt="image" src="https://github.com/user-attachments/assets/9e0153ad-5553-478d-bffe-9cb1078dd22c" />
+         <img width="856" height="496" alt="image" src="https://github.com/user-attachments/assets/dd4b593d-372a-4bbd-810f-0e9aa310149a" />
+
+
 
 
 
@@ -75,7 +77,8 @@ This repository contains a study on Box Office trends and key attributes such as
 
     Relationship Between Production Budget and Worldwide Gross
 
-    <img width="712" height="424" alt="image" src="https://github.com/user-attachments/assets/9f956252-aca8-4025-8c4d-5a671a70df69" />
+   <img width="1101" height="655" alt="image" src="https://github.com/user-attachments/assets/61961950-0d2f-4ce0-8918-aab94c9637eb" />
+
 
 
 
