@@ -5,6 +5,7 @@ from IPython.display import Image, display
 
 display(Image(filename='movie.jpg.jpg'))
 
+
                     
                        PHASE 2 PROJECT 
                        
