@@ -2,10 +2,11 @@
 This repository contains a study on Box Office trends and key attributes such as genre and movie budgets to derive actionable insights and recommendations for development of a new studio.
 <img width="3888" height="2592" alt="image" src="https://github.com/user-attachments/assets/51899079-32fb-4f39-b155-16548c7f3801" />
 
-                    
-                         PHASE 2 PROJECT 
+        
+# PHASE 2 PROJECT 
                        
-                  MOVIES DATA ANALYSIS FOR NEW STUDIO 📽️
+                       
+## MOVIES DATA ANALYSIS FOR NEW STUDIO 📽️
                    
  Generating data-driven insights for a new movie studio.
 
