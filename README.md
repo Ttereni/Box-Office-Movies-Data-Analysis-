@@ -9,8 +9,7 @@ This repository contains a study on Box Office trends and key attributes such as
                    
  Generating data-driven insights for a new movie studio.
 
-
-    Project Overview 💼
+## Project Overview 💼
     
    Our company is seeking to venture into film production by launching a new movie studio. However, given the competitive market, we have to leverage data-driven insights to drive the excercise. In this project, movie industry data will be analysed to uncover insights for movies success and recommend the type of movies for the new studio to prioritize. 
 
