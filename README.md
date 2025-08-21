@@ -14,7 +14,7 @@ This repository contains a study on Box Office trends and key attributes such as
     
    Our company is seeking to venture into film production by launching a new movie studio. However, given the competitive market, we have to leverage data-driven insights to drive the excercise. In this project, movie industry data will be analysed to uncover insights for movies success and recommend the type of movies for the new studio to prioritize. 
 
-                        Problem Statement 📝
+## Problem Statement 📝
                      
    Movie success is impacted by factors such as genre, budgets, release dates among others. The question of determining which combination of these factors is the key to success is a challenge especially to new studios. Without proper knowledge on market trends, production studios may produce movies which wont generate sufficient revenue. 
 
